@@ -26,7 +26,7 @@
   "homepage": "https://github.com/battlejj/express-mongoose-store",
   "dependencies": {
     "debug": "3.x.x",
-    "node-cache": "^4.1.0"
+    "node-cache": "4.1.1"
   },
   "scripts": {
     "test": "mocha test"
